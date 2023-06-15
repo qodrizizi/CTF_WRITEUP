@@ -4,7 +4,7 @@
 ![Screenshot from 2023-06-13 23-29-18](https://github.com/yogasungkowo/CTF-WRITEUP/assets/93362737/3e7357c6-7216-4156-8aeb-82cbe8408d6e)
 
 Diberikan sebuah website http://103.167.136.89:10002/ dengan tampilan :
-![Screenshot from 2023-06-13 23-32-03](https://github.com/yogasungkowo/CTF-WRITEUP/assets/93362737/a9bd5a88-8c40-4c30-a4a3-b1c17b0af079)
+![image](https://github.com/qodrizizi/CTF_WRITEUP/assets/111678241/638daf3e-7f04-4575-bc70-15c3f4ad148d)
 
 # Solutions
 
