@@ -26,8 +26,7 @@ Terdapat satu cookie yang mencurigakan yaitu cookie 'flag' mari ubah valuenya da
 
 lalu refresh situsnya dan boom kita dapatkan flagnya :
 
-![Screenshot from 2023-06-14 02-09-38](https://github.com/yogasungkowo/CTF-WRITEUP/assets/93362737/e27337a4-40fd-433f-837b-05d9666a8ec2)
+![image](https://github.com/qodrizizi/CTF_WRITEUP/assets/111678241/8212bcea-1cdd-4efc-bc9b-9387076fd86c)
 
-## Flag
 
 **ForestyHC{here_is_your_fortun3_cookie_4a0a47}**
