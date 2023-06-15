@@ -17,11 +17,12 @@ Jika kita menekan tombol Get your fortune! maka tampilan akan berubah menjadi :
 
 Mari lihat cookiesnya menggunakan cookie editor :
 
-![Screenshot from 2023-06-14 02-06-23](https://github.com/yogasungkowo/CTF-WRITEUP/assets/93362737/4eb82466-d62d-482f-a059-daa7a3f88f24)
+![image](https://github.com/qodrizizi/CTF_WRITEUP/assets/111678241/2e2b2b31-42cf-4409-9b68-e31f441a8368)
+
 
 Terdapat satu cookie yang mencurigakan yaitu cookie 'flag' mari ubah valuenya dari 0 ke 1
 
-![Screenshot from 2023-06-14 02-07-40](https://github.com/yogasungkowo/CTF-WRITEUP/assets/93362737/1c1d9ba0-9ae9-4e65-873b-8e15e6d27d59)
+![image](https://github.com/qodrizizi/CTF_WRITEUP/assets/111678241/86e7a6a5-e403-45a7-bb9f-3119130f1d00)
 
 lalu refresh situsnya dan boom kita dapatkan flagnya :
 
