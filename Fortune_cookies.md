@@ -8,11 +8,12 @@ Challenge ini menuntut kita untuk mempelajari terkait cara kerja cookie di sebua
 ## Solutions
 Challenge ini memberikan sebuah website :
 
-![Screenshot from 2023-06-14 01-25-26](https://github.com/yogasungkowo/CTF-WRITEUP/assets/93362737/96df44b6-2f51-4c32-936e-fb23845da25c)
+![image](https://github.com/qodrizizi/CTF_WRITEUP/assets/111678241/8fdddf80-00d8-4fa7-982f-065565735c59)
 
-Jika kita menekan tombol 'Get Your Fortune Cookies' maka tampilan akan berubah menjadi :
 
-![Screenshot from 2023-06-14 01-57-12](https://github.com/yogasungkowo/CTF-WRITEUP/assets/93362737/2ec27250-2a68-49cb-8eb7-b01e80888500)
+Jika kita menekan tombol Get your fortune! maka tampilan akan berubah menjadi :
+
+![image](https://github.com/qodrizizi/CTF_WRITEUP/assets/111678241/bb86071b-e73c-44fd-917f-dbd6476a5216)
 
 Mari lihat cookiesnya menggunakan cookie editor :
 
