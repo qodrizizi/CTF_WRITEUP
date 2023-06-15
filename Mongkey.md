@@ -1,7 +1,7 @@
 # Mongkey
 ## About The Challenge
 
-![Screenshot from 2023-06-13 23-29-18](https://github.com/yogasungkowo/CTF-WRITEUP/assets/93362737/3e7357c6-7216-4156-8aeb-82cbe8408d6e)
+![image](https://github.com/qodrizizi/CTF_WRITEUP/assets/111678241/f1e9c856-7778-470f-90a4-409e514e0e54)
 
 Diberikan sebuah website http://103.167.136.89:10002/ dengan tampilan :
 ![image](https://github.com/qodrizizi/CTF_WRITEUP/assets/111678241/638daf3e-7f04-4575-bc70-15c3f4ad148d)
