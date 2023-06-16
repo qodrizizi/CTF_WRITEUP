@@ -24,7 +24,7 @@ saya mendapati bahwa username didalam website ini ada dua yaitu :
 admin
 guest
 ```
-![Screenshot from 2023-06-14 00-05-58](https://github.com/yogasungkowo/CTF-WRITEUP/assets/93362737/fa9c6d5e-1656-4975-bdcb-0ec26da559a3)
+/home/ahmad/Gambar/Cuplikan Layar/Cuplikan layar dari 2023-06-15 15-55-27.png
 
 guest bukanlah username untuk medapatkan flagnya maka saya berasumsi bahwa flag terdapat pada user 'admin', mari kita cari passwordnya dengan perintah :
 ```shell
