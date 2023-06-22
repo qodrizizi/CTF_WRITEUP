@@ -1,7 +1,7 @@
 # CTF_WRITEUP
 
 # MISCELLANEOUS
-Sanity_CHECK.md
+https://github.com/qodrizizi/CTF_WRITEUP/blob/925313e8862d18fa2edcbcb44484627765f65d01/Sanity_CHECK.md
 
 # WEB EXPLOITATION
 
