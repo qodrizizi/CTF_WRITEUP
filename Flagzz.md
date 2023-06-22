@@ -1,4 +1,4 @@
-![image](https://github.com/qodrizizi/CTF_WRITEUP/assets/111678241/94f9871d-b5eb-4e83-9e53-4589a720233a)# flagzz
+# flagzz
 ## About The Challenge
 
 Diberikan sebuah challenge yang mengharuskan mendownload file flagzz.wav :
