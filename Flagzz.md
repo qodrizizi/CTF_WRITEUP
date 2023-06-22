@@ -10,6 +10,9 @@ Diberikan sebuah challenge yang mengharuskan mendownload file flagzz.wav :
 Untuk menyelesaikan tantangan ini saya menggunakan tool 'Audacity'. Lalu pilih menu dan masukkan file flagzz.wav tadi lalu klik berkas,import,dan data raw lalu pilih filenya
 ![Cuplikan layar dari 2023-06-22 22-16-19](https://github.com/qodrizizi/CTF_WRITEUP/assets/111678241/e5dd5dce-4c45-4572-8770-b9d2f50a4e4b)
 
+Lalu keluarlah tampilan seperti ini 
+![Cuplikan layar dari 2023-06-22 22-19-16](https://github.com/qodrizizi/CTF_WRITEUP/assets/111678241/b3483b23-fe18-42f3-8510-06efe2d6cb9b)
+
 
 Lalu klik spectrogram dan didapatkanlah link "bit.ly/flagzz"
 ![Cuplikan layar dari 2023-06-22 07-12-46](https://github.com/qodrizizi/CTF_WRITEUP/assets/111678241/664bb947-8e81-4a83-9161-d82280e74a70)
