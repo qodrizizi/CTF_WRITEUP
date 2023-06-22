@@ -11,7 +11,7 @@ List of Challange I solved.
 | Web Exploitation | [Fortune Cookies](https://github.com/qodrizizi/CTF_WRITEUP/blob/0488dc0f947dc11bbf2b15d54d1f01551029c4b1/Fortune_cookies.md)
 | Web Exploitation | [ezqlite](/Judul%203/)
 | Web Exploitation | [figl33t](/Judul%204/)
-| Web Exploitation | [Mongkey](/Judul%204/)
+| Web Exploitation | [Mongkey]([/Judul%204/](https://github.com/qodrizizi/CTF_WRITEUP/blob/5593a5dfdd63a4fbe35e7333efd2cb6e0279defa/Mongkey.md))
 
 ### Week 2
 | Category | Challenge |
