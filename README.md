@@ -16,7 +16,7 @@ List of Challange I solved.
 ### Week 2
 | Category | Challenge |
 | --- | --- |
-| CRYPTOGRAPHY | [Vigenere](/Judul%201/)
+| CRYPTOGRAPHY | [Vigenere](https://github.com/qodrizizi/CTF_WRITEUP/blob/a2adc650560154a7faba539de7d7853751fcbe95/Vigenere.md)
 | CRYPTOGRAPHY | [RSA](/Judul%202/)
 | CRYPTOGRAPHY | [Xorrr](/Judul%203/)
 | FORENSIC     | [Rawwrr](/Judul%204/)
