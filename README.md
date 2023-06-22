@@ -1,10 +1,13 @@
-# CTF_WRITEUP
+# Writeup CTF Foresty Hacker Class
+Personal Info.
 
-# MISCELLANEOUS
-https://github.com/qodrizizi/CTF_WRITEUP/blob/925313e8862d18fa2edcbcb44484627765f65d01/Sanity_CHECK.md
+## List Challange
+List of Challange I solved.
 
-# WEB EXPLOITATION
-
-# CRYPTOGRAPHY
-
-# FORENSIC
+### Week 1
+| Category | Challenge |
+| --- | --- |
+| MISCELLANEOUS    | [Judul 1](/Judul%201/)
+| Web Exploitation | [Judul 2](/Judul%202/)
+| Web Exploitation | [Judul 3](/Judul%203/)
+| Web Exploitation | [Judul 4](/Judul%204/)
