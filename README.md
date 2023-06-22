@@ -20,5 +20,5 @@ List of Challange I solved.
 | CRYPTOGRAPHY | [RSA](/Judul%202/)
 | CRYPTOGRAPHY | [Xorrr](/Judul%203/)
 | FORENSIC     | [Rawwrr](/Judul%204/)
-| FORENSIC     | [Recover me](/Judul%204/)
+| FORENSIC     | [Recover me](https://github.com/qodrizizi/CTF_WRITEUP/blob/a2adc650560154a7faba539de7d7853751fcbe95/Recover_me.md)
 | FORENSIC     | [Flagzz](/Judul%204/)
