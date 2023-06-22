@@ -21,4 +21,4 @@ List of Challange I solved.
 | CRYPTOGRAPHY | [Xorrr](https://github.com/qodrizizi/CTF_WRITEUP/blob/397d87724ad6c28aeb33122faaf92085086b83fb/Xorr.md)
 | FORENSIC     | [Rawwrr](/Judul%204/)
 | FORENSIC     | [Recover me](https://github.com/qodrizizi/CTF_WRITEUP/blob/a2adc650560154a7faba539de7d7853751fcbe95/Recover_me.md)
-| FORENSIC     | [Flagzz](/Judul%204/)
+| FORENSIC     | [Flagzz](https://github.com/qodrizizi/CTF_WRITEUP/blob/6ddb14a41fb4eac424f981acc890ee2ad58c574d/Flagzz.md)
