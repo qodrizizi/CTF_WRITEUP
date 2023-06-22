@@ -17,7 +17,7 @@ List of Challange I solved.
 | Category | Challenge |
 | --- | --- |
 | CRYPTOGRAPHY | [Vigenere](https://github.com/qodrizizi/CTF_WRITEUP/blob/a2adc650560154a7faba539de7d7853751fcbe95/Vigenere.md)
-| CRYPTOGRAPHY | [RSA](/Judul%202/)
+| CRYPTOGRAPHY | [RSA](https://github.com/qodrizizi/CTF_WRITEUP/blob/53579d4d249f8b478169a4fb64d0f7964fd53a73/RSA.md)
 | CRYPTOGRAPHY | [Xorrr](/Judul%203/)
 | FORENSIC     | [Rawwrr](/Judul%204/)
 | FORENSIC     | [Recover me](https://github.com/qodrizizi/CTF_WRITEUP/blob/a2adc650560154a7faba539de7d7853751fcbe95/Recover_me.md)
