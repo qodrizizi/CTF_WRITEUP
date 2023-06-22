@@ -16,9 +16,9 @@ List of Challange I solved.
 ### Week 2
 | Category | Challenge |
 | --- | --- |
-| CRYPTOGRAPHY | [Judul 1](/Judul%201/)
-| CRYPTOGRAPHY | [Judul 2](/Judul%202/)
-| CRYPTOGRAPHY | [Judul 3](/Judul%203/)
-| FORENSIC     | [Judul 4](/Judul%204/)
-| FORENSIC     | [Judul 4](/Judul%204/)
-| FORENSIC     | [Judul 4](/Judul%204/)
+| CRYPTOGRAPHY | [Vigenere](/Judul%201/)
+| CRYPTOGRAPHY | [RSA](/Judul%202/)
+| CRYPTOGRAPHY | [Xorrr](/Judul%203/)
+| FORENSIC     | [Rawwrr](/Judul%204/)
+| FORENSIC     | [Recover me](/Judul%204/)
+| FORENSIC     | [Flagzz](/Judul%204/)
